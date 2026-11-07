@@ -17,7 +17,7 @@ Workshop prático de introdução ao Git, usando pequenos exemplos em JavaScript
 4. Na aba **Actions**, abra **Progresso do workshop** e clique em **Run workflow**. A Issue **Progresso do workshop** é criada.
 5. Clone o seu repositório e siga os exercícios **E2 a E6**.
 
-## Estrutura
+## Estruturaaa
 
 | Caminho | Conteúdo |
 |---|---|
